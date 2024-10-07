@@ -97,6 +97,10 @@ console.log (dividir)
 
 //Escribe tu código aquí
 
+let number1 = 18
+let number2 = 36
+let comparacion1 = (number1 > number2)
+console.log (comparacion1)
 
 
 
@@ -104,29 +108,39 @@ console.log (dividir)
 
 //Escribe tu código aquí
 
-
-
+let comparacion2 = (number1 < number2)
+console.log (comparacion2)
 
 //Ejercicio 11: completa el ejercicio
 
 let num1 = 15
 let num2 = 20
+//Realiza la operación de comparación que consideres para que el resultado en consola sea true
 
-let comparision = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
+let comparision = (num2 == num1+5)
 console.log(comparision)
+
+
 
 //Ejercicio 12: completa el ejercicio
 
-let num3 = 1
-let num3AsString = "1"
 
-let result = //Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
-console.log(result) 
+//Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
+
+let result = (num1 == num2)
+console.log(result)
 
 //Ejercicio 13: completa el ejercicio
+//Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
 
-let result2 = //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
+let result2 = (num2 == num1-5)
 console.log(result2)
+
+
+//Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
+
+let result3 = (num1 == num2-5)
+console.log(result3)
 
 
 
@@ -134,9 +148,11 @@ console.log(result2)
 //Ejercicio 14: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
 
 //Escribe tu código aquí
-
-
-
+ 
+let minombre = "Cristian"
+let apellido = "Osal"
+let nombrecompleto = (minombre + " " + apellido)
+console.log (nombrecompleto)
 
 
 //OPERADORES DE LÓGICA
