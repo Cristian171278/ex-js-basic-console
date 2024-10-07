@@ -20,29 +20,31 @@ console.log (text)
 
 //Escribe tu código aquí
 let nombre = "cristian";
-console.log (nombre);
-let age = 45;
-console.log (age);
-let boolean = "true";
-console.log (boolean);
+    console.log (nombre);
+let number = 45;
+    console.log (number);
+let pregunta = true;
+    console.log (pregunta);
 let nulo = null;
-console.log (nulo)
-let indefinido = undefined
-console.log (indefinido)
-let objeto = Object
-console.log (objeto)
-let array = (1, 2, 3, 4, 5)
-console.log (array)
+    console.log (nulo)
+let indefinido ;
+    console.log (indefinido)
+let objeto = {
+    nombre : "Lucas",
+    animal : "gato"
+}
+    console.log (objeto)
+let array = [1, 2, 3, 4, 5]
+    console.log (array)
 
 //Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
 
 //Escribe tu código aquí
-
-
+const postre = ["helado", "tarta", "pastel"]
+console.log (postre)
 
 
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
-
 //Escribe tu código aquí
 
 
