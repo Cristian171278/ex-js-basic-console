@@ -41,14 +41,17 @@ let array = [1, 2, 3, 4, 5]
 
 //Escribe tu código aquí
 const postre = ["helado", "tarta", "pastel"]
-console.log (postre)
+    console.log (postre)
 
 
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 //Escribe tu código aquí
+const coder = {
+    nombre : "Cristian",
+    edad : 45
+}
 
-
-
+    console.log (coder)
 
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
