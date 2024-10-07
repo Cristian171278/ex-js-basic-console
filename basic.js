@@ -73,14 +73,15 @@ console.log (suma)
 
 //Escribe tu código aquí
 
-
-
+let resta = (5-2)
+console.log (resta)
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
+let multiplique = (3*2)
+console.log (multiplique)
 
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
