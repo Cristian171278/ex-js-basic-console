@@ -65,7 +65,8 @@ const coder = {
 
 //Escribe tu código aquí
 
-
+let suma = (3 + 2)
+console.log (suma)
 
 
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
