@@ -10,7 +10,9 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 //Escribe tu código aquí
 
+let text = ("Bienvenida al Bootcamp de FemCoders de Factoría F5")
 
+console.log (text)
 
 
 //VARIABLES Y TIPOS DE DATOS
