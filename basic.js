@@ -88,7 +88,8 @@ console.log (multiplique)
 
 //Escribe tu código aquí
 
-
+let dividir = (27/3)
+console.log (dividir)
 
 
 //OPERADORES DE COMPARACIÓN
